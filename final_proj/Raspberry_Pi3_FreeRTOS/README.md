@@ -1,3 +1,6 @@
+# FreeRTOS Port Credit
+https://github.com/varghes/Raspberry_Pi3_FreeRTOS
+
 # FreeRTOS Raspberry Pi3  (BCM2837)
 
 ## Building
